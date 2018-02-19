@@ -1,0 +1,29 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+#coach_answer{
+  margin: auto;
+  padding: 10px;
+}
+
+.wrapper{
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: red;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, p{
+  font-family: 'Roboto', sans-serif;
+}
+
+a:hover{
+  color: #e51919;
+}
